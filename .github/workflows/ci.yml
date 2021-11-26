@@ -3,6 +3,7 @@ on:
   push:
     branches:
     - master
+    - master-test
     tags:
     - "v*"
   pull_request:
